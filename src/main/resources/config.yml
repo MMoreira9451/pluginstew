@@ -1,0 +1,14 @@
+# Configuración del SuspiciousStewStacker
+
+# Habilitar o deshabilitar el stackeo
+stacking-enabled: true
+
+# Tamaño máximo del stack (1-64)
+max-stack-size: 64
+
+# Mensaje de configuración
+messages:
+  no-permission: "§cNo tienes permisos para usar este comando."
+  enabled: "§aStackeo de suspicious stews habilitado!"
+  disabled: "§cStackeo de suspicious stews deshabilitado!"
+  reloaded: "§eConfiguración recargada!"

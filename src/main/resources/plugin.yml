@@ -1,0 +1,18 @@
+name: SuspiciousStewStacker
+version: 1.0.0
+main: com.minecraft.SuspiciousStewStackerPlugin
+api-version: 1.21
+description: Permite stackear suspicious stews en Minecraft
+author: Ashby945
+website: //
+
+commands:
+  stewstack:
+    description: Comando para configurar el plugin
+    usage: /stewstack <enable|disable|reload>
+    permission: stewstack.admin
+
+permissions:
+  stewstack.admin:
+    description: Permite usar comandos del plugin
+    default: op
