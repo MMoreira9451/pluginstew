@@ -1,6 +1,6 @@
 name: SuspiciousStewStacker
 version: 1.0.0
-main: com.minecraft.SuspiciousStewStackerPlugin
+main: com.minecraft.stewstacker.Main
 api-version: 1.21
 description: Permite stackear suspicious stews en Minecraft
 author: Ashby945

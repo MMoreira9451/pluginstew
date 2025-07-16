@@ -16,7 +16,7 @@ import org.bukkit.potion.PotionEffectType;
 
 import java.util.List;
 
-public class SuspiciousStewStackerPlugin extends JavaPlugin implements Listener {
+public class Main extends JavaPlugin implements Listener {
 
     private boolean stackingEnabled = true;
     private int maxStackSize = 64;
