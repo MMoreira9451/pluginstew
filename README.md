@@ -4,4 +4,4 @@
 
 Thats it
 
-![Loading spinner](https://images.steamusercontent.com/ugc/18075070511141467385/E08BA31AC58E042AE38D1FAB3467D24882B61669/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)
+![Loading spinner](https://static.wikia.nocookie.net/deltarune/images/f/f9/Tenna_crashout_.gif/revision/latest/scale-to-width-down/250?cb=20250705204539)
