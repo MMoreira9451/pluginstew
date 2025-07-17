@@ -4,3 +4,4 @@
 
 Thats it
 
+![Loading spinner](https://example.com/spinner.gif)
